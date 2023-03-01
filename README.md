@@ -35,6 +35,7 @@ Neste projeto você terá o desafio de construir uma API com Json-Server e consu
 ```
 npm init -y
 npm i json-server
+npm start
 ```
 
 ## FrontEnd - SPA Angular
