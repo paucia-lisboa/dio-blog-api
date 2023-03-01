@@ -44,6 +44,7 @@ npm install -g @angular/cli
 ng new blog
 cd blog
 ng serve
+ng g <schematic>
 ```
 
 ## Git e GitHub
