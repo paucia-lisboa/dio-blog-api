@@ -1,4 +1,4 @@
-# BLOG COM ANFULAR  
+# BLOG COM ANGULAR  
 
 ## 🚀 Desafio de projeto | Projeto Prático: Desenvolvendo um Blog com a as Tecnologias de Java Angular
 
